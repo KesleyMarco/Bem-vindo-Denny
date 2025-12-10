@@ -445,6 +445,7 @@ body {
 
 .navbar-link:is(:hover, :focus) {
     background-color: var(--white_10);
+<<<<<<< HEAD
 }
 
 /*-----------------------------------*\
@@ -1792,4 +1793,6 @@ body {
         grid-template-columns: 1fr 0.7fr 0.7fr 1fr;
     }
 
+=======
+>>>>>>> f7c0438cbeb7d8753c7767037d6ff746bc5ef251
 }
